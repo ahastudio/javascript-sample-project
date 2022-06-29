@@ -6,4 +6,4 @@ const b = [
   2,
 ];
 
-print(b.map(i => i + a)) ;
+print(b.map(i => i + a));
